@@ -1,10 +1,12 @@
 {
   "name": "senju-bot",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.6.1"
+  },
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js",
     "dev": "nodemon bot.js"
   },
   "keywords": [],
